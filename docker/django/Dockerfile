@@ -1,5 +1,4 @@
 FROM python:3.4.3
-MAINTAINER Filipe Garcia <filipe.garcia@seedstarslabs.com>
 
 ENV PYTHONUNBUFFERED 1
 
